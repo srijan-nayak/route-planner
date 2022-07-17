@@ -4,6 +4,8 @@
 *.o
 draw.cpp
 test.cpp
+.idea
+cmake-build-debug/
 build/
 bin/
 lib/
