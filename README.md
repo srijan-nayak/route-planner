@@ -10,13 +10,13 @@ This forked repository implements the A* search algorithm for rout planning base
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 
 ```shell
-git clone https://github.com/srijan-nayak/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/srijan-nayak/route-planner.git --recurse-submodules
 ```
 
 or with SSH:
 
 ```shell
-git clone git@github.com:srijan-nayak/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:srijan-nayak/route-planner.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
